@@ -4,13 +4,13 @@
 
 <img align = "right" alt="coding" width="400" src="https://miraculoussoft.com/wp-content/uploads/2022/03/best-PHP-Development-Services-new-york.gif">
 
-<!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=subal-roy&label=Profile%20views&color=0e75b6&style=flat" alt="subal-roy" /> </p> -->
+<!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=subalroy22&label=Profile%20views&color=0e75b6&style=flat" alt="subalroy22" /> </p> -->
 
 - 🔭 I’m currently working with **Laravel**
 
 - 🌱 I’m currently learning **Laravel and React**
 
-<!-- - 👨‍💻 All of my projects are available at [https://subal-roy.github.io/](https://subal-roy.github.io/) -->
+<!-- - 👨‍💻 All of my projects are available at [https://subalroy22.github.io/](https://subalroy22.github.io/) -->
 
 - 📫 How to reach me **subalroy5561@gmail.com**
 
@@ -40,8 +40,8 @@
   <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> 
 </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=subal-roy&show_icons=true&locale=en&layout=compact" alt="subal-roy" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=subalroy22&show_icons=true&locale=en&layout=compact" alt="subalroy22" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=subal-roy&show_icons=true&locale=en" alt="subal-roy" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=subalroy22&show_icons=true&locale=en" alt="subalroy22" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=subal-roy&" alt="subal-roy" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=subalroy22&" alt="subalroy22" /></p>
